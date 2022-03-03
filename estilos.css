@@ -1,0 +1,19 @@
+.titulo {
+    background-image: linear-gradient(to top, orange, yellow);
+}
+.texto {
+    border: 2px solid black;
+    background-image: radial-gradient(grey,white);
+}    
+.pie {
+    background-color: black;
+    color: white;
+}
+.headerr {
+    border: 2px solid black;
+}
+.pie {
+    background-image: radial-gradient(black, grey);
+}
+
+ 
